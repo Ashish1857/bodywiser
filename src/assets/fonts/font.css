@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AvenirLTStd-Roman';
+    src: url('./AvenirLTStd-Roman.woff2') format('woff2'),
+         url('./AvenirLTStd-Roman.woff') format('woff'),
+  }
+
+  @font-face {
+    font-family: 'SerifaStd-Black';
+    src: url('./SerifaStd-Black.woff2') format('woff2'),
+         url('./SerifaStd-Black.woff') format('woff'),
+  }
