@@ -104,7 +104,7 @@ const useStyles = makeStyles((theme = Theme) => {
     },
     rating: {
       position: "absolute",
-      top: -12,
+      top: -15,
       left: -5,
       padding: "5px 10px",
       background: "#000",
