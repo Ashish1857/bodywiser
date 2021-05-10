@@ -80,11 +80,13 @@ const useStyles = makeStyles((theme = Theme) => {
     },
     cartBtn:{
       background: '#eee',
-      fontWeight: 500
+      fontWeight: 500,
+      borderRadius: '0 0 0 8px !important',
     },
     buyBtn: {
       background: "#000",
       color: "#fff",
+      borderRadius: '0 0 8px 0 !important',
       "&:hover": {
         background: "#000",
         color: "#fff",
